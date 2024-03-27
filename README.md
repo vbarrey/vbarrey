@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Victor Barrey
 - 👀 I’m interested in video games, new technology and all types of art
 - 🎓 I’m currently studying computer science for my master's degree, specialized in image and sound processing
-- 👨🏼‍💻 I’m looking fo a final internship (April-September 2024)
 - 📫 You can reach me by mail at victorbarrey@outlook.fr
 
 <!---
